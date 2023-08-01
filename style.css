@@ -1,0 +1,53 @@
+body {
+  background-color: blueviolet;
+  text-align: center;
+  margin: 5rem;
+  font-family: "Roboto Condensed", sans-serif;
+  color: bisque;
+}
+button {
+  margin: 0.8rem;
+  justify-content: center;
+  background-color: rgba(224, 183, 46, 0.603);
+}
+
+button:hover {
+  margin: 0.8rem;
+  justify-content: center;
+  background-color: lightseagreen;
+}
+
+#rock {
+  border: 2rem;
+  border-radius: 0.3rem;
+  font-size: 1.5rem;
+}
+
+#paper {
+  border: 2rem;
+  border-radius: 0.3rem;
+  font-size: 1.5rem;
+}
+
+#scissor {
+  border: 2rem;
+  border-radius: 0.3rem;
+  font-size: 1.5rem;
+}
+
+#reset {
+  border: 2rem;
+  border-radius: 0.3rem;
+  font-size: 1.7rem;
+}
+
+#clic {
+  color: darkgrey;
+}
+
+#com-clic {
+  color: darkgrey;
+}
+body {
+  font-size: 1.5rem;
+}
